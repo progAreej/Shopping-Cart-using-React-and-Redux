@@ -1,0 +1,50 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Organic Honey",
+        "category": "Food & Beverages",
+        "price": 12.99,
+        "description": "Pure, raw organic honey from local beekeepers.",
+        "stock": 50,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLay_MsSyfMO9oggwTCbSEKfclBs_Esq_-UA&s"
+      },
+      {
+        "id": 2,
+        "name": "Wooden Cutting Board",
+        "category": "Kitchenware",
+        "price": 25.00,
+        "description": "Handcrafted wooden cutting board made from high-quality oak.",
+        "stock": 30,
+        "imageUrl": "https://vestahomes.in/cdn/shop/files/PhotoRoom_20230724_201438.jpg?v=1712994338&width=1445"
+      },
+      {
+        "id": 3,
+        "name": "Herbal Tea Blend",
+        "category": "Food & Beverages",
+        "price": 9.50,
+        "description": "A blend of organic herbs for a soothing tea experience.",
+        "stock": 100,
+        "imageUrl": "https://oaktownspiceshop.com/cdn/shop/products/Herbal_Coffee_Lo_Res.jpg?v=1559168775"
+      },
+      {
+        "id": 4,
+        "name": "Eco-friendly Water Bottle",
+        "category": "Accessories",
+        "price": 18.99,
+        "description": "Reusable, BPA-free water bottle made from sustainable materials.",
+        "stock": 75,
+        "imageUrl": "https://actionpromote.co.uk/wp-content/uploads/2021/02/DR1110-600x600.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Beeswax Candles",
+        "category": "Home Decor",
+        "price": 15.00,
+        "description": "Natural beeswax candles with a subtle honey scent.",
+        "stock": 40,
+        "imageUrl": "https://www.treefortnaturals.com/cdn/shop/files/image_80b0baeb-1944-49f4-96c7-9e78616ec80a_2048x.jpg?v=1686245248"
+      }
+    ]
+  }
+  
